@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ana Clara Alcantara</h1>
+<h1 align="center">Hi 👋, I'm Ana Clara Alcântara</h1>
 <h3 align="center">A curious Computer Engineering student!</h3>
 
 - 🔭 I’m currently working on [Academic project on object oriented programming.](https://github.com/poo-ec-2026-1/g2)
